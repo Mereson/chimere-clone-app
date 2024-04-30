@@ -1,7 +1,6 @@
 import React from "react"
 import "../input.css"
 import { Link } from "react-router-dom"
-import Homepage from "./Homepage"
 
 export const Profiles = ({ username, userImg }) => {
   return (
